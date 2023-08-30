@@ -139,6 +139,9 @@ McKathlin.DayNightCycle.getMinutesOfDay();
 - Fixed bug where Bloodmoon phase screen tones failed to display.
 - Fixed bug where Bloodmoon phase switches failed to update.
 
+**v2.1.1** - 8/30/2023
+- This plugin is now free and open source under the [MIT license](https://opensource.org/license/mit/).
+
 > **Enjoy the plugin!**
 > 
 > *McKathlin*

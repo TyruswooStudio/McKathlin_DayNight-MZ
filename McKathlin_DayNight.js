@@ -36,7 +36,7 @@ McKathlin.DayNight = McKathlin.DayNight || {};
 
 /*:
  * @target MZ
- * @plugindesc MZ v2.1 Configure & track a day-night cycle. Optional blood moon.
+ * @plugindesc MZ v2.1.1 Configure & track a day-night cycle. Optional blood moon.
  * @author McKathlin
  * 
  * @help This plugin tracks a day-night cycle:
@@ -179,6 +179,9 @@ McKathlin.DayNight = McKathlin.DayNight || {};
  * v2.1 12/7/2022
  *        - Fixed bug where Bloodmoon phase screen tones failed to display.
  *        - Fixed bug where Bloodmoon phase switches failed to update.
+ * 
+ * v2.1.1  8/30/2023
+ *        - This plugin is now free and open source under the MIT license.
  * 
  * ============================================================================
  * MIT License
