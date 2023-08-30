@@ -1,3 +1,8 @@
+## WARNING: This is an older version!
+It lacks the features and improvements of this plugin's later versions.
+To get the latest version for free, visit
+[Tyruswoo.com](https://www.tyruswoo.com).
+
 # McKathlin Day-Night Cycle v1.1.1 for RPG Maker MZ
 
 Add a day-night cycle!
@@ -5,11 +10,6 @@ Add a day-night cycle!
 This plugin keeps track of time of day as the cycle advances, auto-updates variables and switches based on time of day, and applies screen tones to areas marked as outdoors.
 
 Also, add lighting presets to your maps!
-
-### Warning: this is an older version!
-It lacks the features and improvements of this plugin's later versions.
-To get the latest version for free, visit
-[Tyruswoo.com](https://www.tyruswoo.com).
 
 ## How to Start Using This Plugin
 
