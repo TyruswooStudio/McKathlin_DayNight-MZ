@@ -1,10 +1,15 @@
-# McKathlin Day-Night Cycle for RPG Maker MZ
+# McKathlin Day-Night Cycle v1.1.1 for RPG Maker MZ
 
 Add a day-night cycle!
 
 This plugin keeps track of time of day as the cycle advances, auto-updates variables and switches based on time of day, and applies screen tones to areas marked as outdoors.
 
 Also, add lighting presets to your maps!
+
+### Warning: this is an older version!
+It lacks the features and improvements of this plugin's later versions.
+To get the latest version for free, visit
+[Tyruswoo.com](https://www.tyruswoo.com).
 
 ## How to Start Using This Plugin
 
@@ -50,20 +55,6 @@ Here's how to make events change depending on the time of day:
    such as Add Time or Set Time. For example, an inn might use Set Time to
    pass the night and make it morning. See the Plugin Command Examples
    section for more info.
-
-Optionally, you can set up a cycle where some nights have different
-lighting and a different switch active from most nights. We call this
-Bloodmoon, but in your game you can tie any meaning to it you want:
-New Moon, Full Moon, Blue Moon, Eclipse, whatever you have in mind.
-Here's how to set it up:
-1. Set the plugin parameter Enable Bloodmoon to ON.
-2. Use the plugin parameters to assign any Bloodmoon switches and variable
-    you plan to have your game's events use.
-3. Set the plugin parameters Days in Moon Cycle and Nights Before First
-    Bloodmoon to set how often unusual nights happen and when they start.
-4. Adjust the Bloodmoon dusk, night, and dawn tone phases to your liking.
-    The default settings give these nights a dark red cast, but you can
-    change this to whatever you like.
 
 ## Map Notetag Examples
 
@@ -125,23 +116,9 @@ McKathlin.DayNightCycle.getMinutesOfDay();
   multi-hour time jumps, such as inn stays.)
 - Added more getting started instructions to help text.
 
-**v2.0**  6/13/2022
-- Optional Bloodmoon feature. Periodically, one night will have
-  unusual lighting, and signal its presence with a distinct switch.
-- Reset Lighting plugin command. Allows tinting the screen back to
-  whichever lighting the map would use, based on the lighting
-  notetag in the map's note.
-- Use Lighting Preset plugin command. Allows tinting the screen to
-  any lighting preset defined in the plugin parameters, using a
-  lighting keyword.
+**v1.1.1** - 8/30/2023
+- This older plugin is now free and open source under the [MIT license](https://opensource.org/license/mit/).
 
-**v2.1** 12/7/2022
-- Fixed bug where Bloodmoon phase screen tones failed to display.
-- Fixed bug where Bloodmoon phase switches failed to update.
-
-**v2.1.1** - 8/30/2023
-- This plugin is now free and open source under the [MIT license](https://opensource.org/license/mit/).
-
-> **Enjoy the plugin!**
+> **Happy storytelling!**
 > 
 > *McKathlin*
