@@ -36,7 +36,7 @@ McKathlin.DayNight = McKathlin.DayNight || {};
 
 /*:
  * @target MZ
- * @plugindesc v1.1.1 Configure and track a day-night cycle.
+ * @plugindesc MZ v1.1.1 Configure and track a day-night cycle.
  * @author McKathlin
  * 
  * @help WARNING: This is an older version of the plugin! It lacks the
